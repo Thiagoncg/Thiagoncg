@@ -1,6 +1,12 @@
 <div align="center"><img src="https://camo.githubusercontent.com/df309fd962ab849c3da04177d2d586952bf2b1124f4b048a48d4bef7d3fd1718/68747470733a2f2f6433367572687570377a626437712e636c6f756466726f6e742e6e65742f34653239386536642d633761612d343331662d393936392d3564333430626437336362392f417469766f316d6470692e666f726d61745f706e672e726573697a655f323030782e706e67" target="_blank"></div>
-### Olá ! Eu sou o Thiago Garcia 👋
-Hoje eu sou desenvolvedor de jogos e realidade virtual usando Unity 3D, professor e orientador de tecnologias no (EIC) Espaço Interativo de Ciências e no (CIBFAR) Centro de Pesquisa e Inovação em Biodiversidade e Fármacos da USP São Carlos.  
+ <div align="center">### Olá ! Eu sou o Thiago Garcia 👋</div>
+ <br>
+ <div>
+Hoje eu sou desenvolvedor de jogos e realidade virtual usando Unity 3D, professor e orientador de tecnologias no (EIC) Espaço Interativo de Ciências e no (CIBFAR) Centro de Pesquisa e Inovação em Biodiversidade e Fármacos da USP São Carlos. 
+</div>
+
+###
+
  <div align="center">
   <a href="https://github.com/Thiagoncg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagoncg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
