@@ -2,7 +2,7 @@
  <div align="center">### Olá ! Eu sou o Thiago Garcia 👋</div>
  <br>
  <div>
-Hoje eu sou desenvolvedor de jogos e realidade virtual usando Unity 3D, professor e orientador de tecnologias no (EIC) Espaço Interativo de Ciências e no (CIBFAR) Centro de Pesquisa e Inovação em Biodiversidade e Fármacos da USP São Carlos. 
+Atualmente, atuo como desenvolvedor de jogos e realidade virtual utilizando Unity 3D, bem como professor e orientador de tecnologias no Espaço Interativo de Ciências (EIC) e no Centro de Pesquisa e Inovação em Biodiversidade e Fármacos da USP São Carlos (CIBFAR).Além disso, tenho a honra de ser professor universitário e de ter fundado a empresa Criar Games, especializada no desenvolvimento de jogos educacionais.
 </div>
 
 ###
